@@ -1,0 +1,11 @@
+{
+    "camera_coverage": {
+        "left": 0.21883982781080705,
+        "front": 0.0,
+        "right": 0.0,
+        "back": 0.3453170210041571
+    },
+    "total_human_coverage": 0.14103921220374102,
+    "total_humans_detected": 3,
+    "inference_time": 1.1077723503112793
+}
